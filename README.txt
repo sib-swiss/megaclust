@@ -27,7 +27,7 @@
 	Repository: https://github.com/sib-swiss/megaclust
 
 	Articles:   megaclust was used here
-                    https://serval.unil.ch/resource/serval:BIB_1781FEB17DE0.P002/REF
+                    https://www.ncbi.nlm.nih.gov/pubmed/29241546
                     https://www.ncbi.nlm.nih.gov/pubmed/23396282
 
 
